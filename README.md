@@ -1,6 +1,7 @@
 # NOMABC
 
 # Simple JAVA CLASS to encode string and display barcode 128 with BI Publisher RTF template
+# Build with VSCode and JDK 11
 
 Steps to use this java class
 
